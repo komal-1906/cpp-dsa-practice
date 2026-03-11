@@ -15,6 +15,7 @@ int main(){
     bool isPrime = true;
 
     int i = 2;
+
     //optimized
     while (i*i <= n){
         if (n%i==0){
