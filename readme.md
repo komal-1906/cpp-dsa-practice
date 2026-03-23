@@ -2,7 +2,8 @@
 
 This repository contains my practice problems while learning Data Structures and Algorithms using C++.
 
-Topics covered:
+<b>Topics covered: </b>
 Patterns,
 Mathematics,
-Arrays
+Arrays (Searching, Sorting)
+Miscellaneous topics 
